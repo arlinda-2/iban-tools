@@ -165,6 +165,11 @@
   length: 27
   bban_pattern: '\d{7}[A-Z0-9]{16}'
 
+'GT':
+  # Guatemala
+  length: 28
+  bban_pattern: '([A-Z]{4}\d{20}'
+
 'HR':
   # Croatia
   length: 21
@@ -364,6 +369,11 @@
   # El Salvador
   length: 28
   bban_pattern: '[A-Z]{4}\d{20}'
+
+'TL':
+  # Timor-Leste
+  length: 23
+  bban_pattern: '\d{20}'
 
 'TN':
   # Tunisia
